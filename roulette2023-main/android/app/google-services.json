@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "783351988819",
+    "project_id": "bosm-roulette-2023",
+    "storage_bucket": "bosm-roulette-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783351988819:android:78416967374c29e17dfca6",
+        "android_client_info": {
+          "package_name": "com.bitspilani.bosm2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783351988819-4fvnp0keirfeiocctf8sh72umortmmo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitspilani.bosm2023",
+            "certificate_hash": "3111ab5d0d6f4aa4d568f890a9d47012331d9829"
+          }
+        },
+        {
+          "client_id": "783351988819-8qgle7uumthejf3k9f0drmvha8tmo0lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitspilani.bosm2023",
+            "certificate_hash": "f52bcce10f420b2d6a8fd90dc88bc05edcf77e13"
+          }
+        },
+        {
+          "client_id": "783351988819-clu1adaevf6qet66nmmf7e66u1urmkpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitspilani.bosm2023",
+            "certificate_hash": "17d17b73977aa5a28ff9ca95a68afd09e7e6e0d6"
+          }
+        },
+        {
+          "client_id": "783351988819-f4g7ce8g48u977ohdauh2ih817smm2i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitspilani.bosm2023",
+            "certificate_hash": "cba3f44ed23976419057e5448a712423d049e2b0"
+          }
+        },
+        {
+          "client_id": "783351988819-h7oomqcqs6h9b16h8c5qtgb4fd1c40mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitspilani.bosm2023",
+            "certificate_hash": "a3203de9109ed1513e49abefc1a2ebf5dc313952"
+          }
+        },
+        {
+          "client_id": "783351988819-ipg3sqv7vfmr7v6b814ulfili8b22vjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitspilani.bosm2023",
+            "certificate_hash": "a79389ad42d63c48a0fbe63274f5010ef25ab357"
+          }
+        },
+        {
+          "client_id": "783351988819-ns125cq60bk3v403noqs4agqrla8m2rg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitspilani.bosm2023",
+            "certificate_hash": "986df654ed7950b2746a567a38dcab15a3e87373"
+          }
+        },
+        {
+          "client_id": "783351988819-sf563117i4ldh0gnbmea3u6rbjd5gq9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitspilani.bosm2023",
+            "certificate_hash": "59d2759b3f1ec14d722856fbc07594f636b96101"
+          }
+        },
+        {
+          "client_id": "783351988819-sm79448aao5lotuit16ptb2bik78b3cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitspilani.bosm2023",
+            "certificate_hash": "8a576876479b240ded0d0eff204437afd105b909"
+          }
+        },
+        {
+          "client_id": "783351988819-u460u3fgi1j44qe8dq13tg743cktt6qo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitspilani.bosm2023",
+            "certificate_hash": "5ae96e87277e82a4889ba8b63a2e20e627a3e2b9"
+          }
+        },
+        {
+          "client_id": "783351988819-pm7if5tagbvle09ki4si18j1gts56jr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmcM8dIl0EZSgxMUy5ASL0aLimAr2Vdr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783351988819-bdaeg798u75hg0hlb8tttmjvvb83ucn2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783351988819-9mbm1d2knnqqekdmtgd051dvvabgq98f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
